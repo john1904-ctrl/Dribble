@@ -357,7 +357,7 @@ CONTACT.HTML
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (73)-1.png>)
-![alt text](<Screenshot (71)-1.png>)
+![alt text](<Screenshot (75).png>) 
+![alt text](<Screenshot (76).png>)
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
